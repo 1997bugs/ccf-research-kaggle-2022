@@ -12,4 +12,4 @@ All data will be made publicly available after competition end (September 2022).
 
 ## Models
 
-All machine learning models (baseline model, winning algorithms) will be made publicly available after competition end (September 2022).
+All machine learning models (baseline model, winning algorithms) will be made publicly available after award ceremony (December 2022).
